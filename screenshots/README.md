@@ -1,0 +1,1 @@
+HackerRank accepted submission screenshots.
