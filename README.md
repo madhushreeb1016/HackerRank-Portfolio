@@ -36,8 +36,31 @@ Counts how many times each query string occurs in the given string list.
 
 ## Screenshots
 
-The `screenshots` folder contains evidence of the accepted HackerRank submissions and HackerRank badges.
+### HackerRank Badges
 
+![HackerRank Badges](screenshots/hackerrank-badges.png)
+
+### Accepted Solutions
+
+#### 1. Diagonal Difference
+
+![Diagonal Difference](screenshots/accepted-1.png)
+
+#### 2. Dynamic Array
+
+![Dynamic Array](screenshots/accepted-2.png)
+
+#### 3. Time Conversion
+
+![Time Conversion](screenshots/accepted-3.png)
+
+#### 4. Compare the Triplets
+
+![Compare the Triplets](screenshots/accepted-4.png)
+
+#### 5. Sparse Arrays
+
+![Sparse Arrays](screenshots/accepted-5.png)
 ## Repository Structure
 
 ```text
