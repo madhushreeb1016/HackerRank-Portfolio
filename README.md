@@ -61,6 +61,7 @@ Counts how many times each query string occurs in the given string list.
 #### 5. Sparse Arrays
 
 ![Sparse Arrays](screenshots/accepted-5.png)
+
 ## Repository Structure
 
 ```text
@@ -89,4 +90,4 @@ HackerRank-Portfolio/
 │   ├── accepted-5.png
 │   └── hackerrank-badges.png
 │
-└── README.md
+└── README.md added this
