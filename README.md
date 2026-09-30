@@ -43,29 +43,29 @@ Counts how many times each query string occurs in the given string list.
 
 ### HackerRank Badge
 
-![HackerRank Badge](screenshots/hackerrank-badge.png)
+![HackerRank Badge](hackerrank-badge.png)
 
 ### Accepted Solutions
 
 #### 1. Diagonal Difference
 
-![Diagonal Difference](screenshots/accepted-1.png)
+![Diagonal Difference](accepted-1.png)
 
 #### 2. Dynamic Array
 
-![Dynamic Array](screenshots/accepted-2.png)
+![Dynamic Array](accepted-2.png)
 
 #### 3. Time Conversion
 
-![Time Conversion](screenshots/accepted-3.png)
+![Time Conversion](accepted-3.png)
 
 #### 4. Compare the Triplets
 
-![Compare the Triplets](screenshots/accepted-4.png)
+![Compare the Triplets](accepted-4.png)
 
 #### 5. Sparse Arrays
 
-![Sparse Arrays](screenshots/accepted-5.png)
+![Sparse Arrays](accepted-5.png)
 
 ## Repository Structure
 
